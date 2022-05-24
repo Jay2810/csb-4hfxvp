@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jay2810.github.io/csb-4hfxvp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jay2810.github.io/csb-4hfxvp/static/js/main.288a23c7.chunk.js",
+    "main.js.map": "https://jay2810.github.io/csb-4hfxvp/static/js/main.288a23c7.chunk.js.map",
+    "runtime-main.js": "https://jay2810.github.io/csb-4hfxvp/static/js/runtime-main.bfa00e7e.js",
+    "runtime-main.js.map": "https://jay2810.github.io/csb-4hfxvp/static/js/runtime-main.bfa00e7e.js.map",
+    "static/js/2.a6acec2b.chunk.js": "https://jay2810.github.io/csb-4hfxvp/static/js/2.a6acec2b.chunk.js",
+    "static/js/2.a6acec2b.chunk.js.map": "https://jay2810.github.io/csb-4hfxvp/static/js/2.a6acec2b.chunk.js.map",
+    "index.html": "https://jay2810.github.io/csb-4hfxvp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jay2810.github.io/csb-4hfxvp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a6acec2b.chunk.js.LICENSE.txt": "https://jay2810.github.io/csb-4hfxvp/static/js/2.a6acec2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa00e7e.js",
+    "static/js/2.a6acec2b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.288a23c7.chunk.js"
+  ]
+}
